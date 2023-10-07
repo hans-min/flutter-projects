@@ -1,0 +1,29 @@
+# `flutter analyze`.
+
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+  exclude: [build/**]
+  language:
+    strict-casts: false
+    strict-raw-types: false
+
+linter:
+  # https://dart-lang.github.io/linter/lints/index.html.
+  rules:
+    sort_pub_dependencies: false
+    public_member_api_docs: false
+    prefer_single_quotes: false 
+    flutter_style_todos: false
+    no_default_cases: false
+    lines_longer_than_80_chars: false
+    avoid_dynamic_calls: false
+    unnecessary_lambdas: false
+    #inference_failure_on_untyped_parameter: ignore
+  #errors:
+    #inference_failure_on_function_return_type: ignore
+    
+    #argument_type_not_assignable: ignore
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
