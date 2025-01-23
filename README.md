@@ -1,1 +1,1 @@
-https://docs.google.com/document/d/1Olhm2Z3AOVfhMAG0OyitKJRvfE7aOJYmFydd1cVktQc/edit?usp=sharing
+These 2 Flutter Bluetooth demo above is used in my thesis on [Mobile as an IoT Gateway: Developing a Bluetooth Low Energy IoT gateway application using Flutter](https://docs.google.com/document/d/1qKIlLb9eBAK6ixFACUj0uvdC8f11SQ0gWbLCzSl32t8/edit?usp=sharing)
